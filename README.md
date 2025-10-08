@@ -121,6 +121,13 @@ Sumber dari dataset ini diantarnya website Wikipedia, WBF, dan PBSI
 
 ---
 
+## 🎨 Web Design
+Design web menggunakan Figma.
+
+🔗 [Link Figma]( https://www.figma.com/design/nx99S5yzqm39UQmLQsjnCb/Badminsights?node-id=0-1&t=1Pj3ayvEd9KPDaDe-1)
+
+---
+
 ## 🚀 Cara Menggunakan
 
 1. 🌐 Kunjungi [Badminsights](https://rousan-chandra-badminsights.pbp.cs.ui.ac.id/)
